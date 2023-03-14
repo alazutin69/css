@@ -46,7 +46,8 @@
   .info {
       display: flex;
       margin-bottom: 20px;
-      justify-content: space-between; /* прижали текст к правой стороне*/
+      justify-content: space-between;
+      /* прижали текст к правой стороне*/
   }
 
   @media (max-width: 700px) {
